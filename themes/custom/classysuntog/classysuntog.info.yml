@@ -1,0 +1,7 @@
+name: Classy Suntog
+type: theme
+description: A custom theme based on Classy.
+base theme: classy
+package: custom
+version: '8.0.0'
+core: '8.x'
